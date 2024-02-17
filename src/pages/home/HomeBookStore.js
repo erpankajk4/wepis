@@ -13,7 +13,7 @@ const HomeBookStore = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Book Store Home"
+        titleTemplate="Wepis | An Ayurvedic Store"
         description="Book Store Home of flone react minimalist eCommerce template."
       />
       <LayoutTwo>
